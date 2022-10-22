@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=santosfernando2377&color=006bed)
+![](https://komarev.com/ghpvc/?username=f2dev898&color=006bed)
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
@@ -39,7 +39,7 @@
 <br/>
 
 <a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosfernando2377&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=f2dev898&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
@@ -48,4 +48,4 @@
 
 [![Linkedin: Fernando Soares](https://img.shields.io/badge/-santosfernando327-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/fernandossoares327)
 [![Gmail Badge](https://img.shields.io/badge/santosfernando2377@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santosfernando2377@gmail.com)](mailto:santosfernando2377@gmail.com)
-[![GitHub Fernando Soares]( https://img.shields.io/github/followers/santosfernando2377?label=follow&style=social)](https://github.com/santosfernando2377)
+[![GitHub Fernando Soares]( https://img.shields.io/github/followers/f2dev898?label=follow&style=social)](https://github.com/f2dev898)
