@@ -1,9 +1,7 @@
-![](https://komarev.com/ghpvc/?username=f2dev898&color=006bed)
-
 <h3> :man: &nbsp;Sobre mim </h3>
 
+- 😥 &nbsp; Antigo perfil (https://github.com/santosfernando2377) Perdi o acesso a conta 2FA ⛈
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Técnico em informática** no <a href="https://www.grautecnico.com.br/portal-academico">Grau Técnico</a>.
 - 💼 &nbsp; Trabalhando como **Analista de Suporte Júnior** na <a href="https://www.zenvia.com/">Zenvia</a>
 - 🌱 &nbsp; Aprendendo mais sobre **React Native**.
 
@@ -35,14 +33,6 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=f2dev898&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
