@@ -28,7 +28,7 @@ Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Express`, `NoSql`, `Mo
 Projetos em destaque: [API Rest de Atendimento pós encerramento bot](https://interativa.ai/)
 <br/>
 
-[<img align="left" style="object-fit: contain;" height="94px" width="94px" alt="Warpnet" src="https://www.rumotecnologia.com.br/wp-content/uploads/2018/12/logo-site-2019.png"/>](https://www.rumotecnologia.com.br/)
+[<img align="left" style="object-fit: contain;"  width="94px" alt="Warpnet" src="https://www.rumotecnologia.com.br/wp-content/uploads/2018/12/logo-site-2019.png"/>](https://www.rumotecnologia.com.br/)
 
 **Analista de Suporte** \
 [**Rumo Tecnologia**](https://www.rumotecnologia.com.br/) • Full-time \
