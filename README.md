@@ -6,7 +6,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Desenvolvedor de Software** \
 [**Zenvia**](https://www.zenvia.com/) • Full-time \
-Linguagens & Tecnologias: `C#`, `JavaScript`, `React`, `TypeScript`, `Node`, `Sql`, `NoSql`, `API Rest`, `Pentaho Data Integration`\
+Linguagens & Tecnologias: `C#`, `JavaScript`, `React`, `TypeScript`, `Node`, `Sql`, `NoSql`, `API Rest`, `Pentaho Data Integration`, `Serverless`\
 Projetos em destaque:
     [Comunicação Transacional de Pedidos e Automações (Grupo Casas Bahia)](https://ri.grupocasasbahia.com.br/), [Comunicação Transacional de Atendimento e Bot de Atendimento (Light)](https://www.light.com.br/)
 <br/>
