@@ -8,7 +8,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Zenvia**](https://www.zenvia.com/) • Full-time \
 Linguagens & Tecnologias: `C#`, `JavaScript`, `React`, `TypeScript`, `Node`, `Sql`, `NoSql`, `API Rest`, `Pentaho Data Integration`\
 Projetos em destaque:
-    [Comunicação Transacional de Pedidos e Automações (Grupo Casas Bahia)](https://ri.grupocasasbahia.com.br/), [Comunicação Transacional de Atendimento (Light)](https://www.light.com.br/)
+    [Comunicação Transacional de Pedidos e Automações (Grupo Casas Bahia)](https://ri.grupocasasbahia.com.br/), [Comunicação Transacional de Atendimento e Bot de Atendimento (Light)](https://www.light.com.br/)
 <br/>
 
 [<img align="left" style="object-fit: contain;" height="94px" width="94px" alt="Warpnet" src="https://www.zenvia.com/wp-content/themes/zenvia-wp-theme/resources/img/logo_zenvia.svg"/>](https://www.zenvia.com/)
